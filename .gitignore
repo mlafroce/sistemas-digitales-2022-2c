@@ -1,0 +1,10 @@
+# Quartus II
+db/
+*.qsf
+*.qpf
+*.ipinfo
+
+# Pytest
+*/sim_build/
+*/tests/__pycache__/
+
